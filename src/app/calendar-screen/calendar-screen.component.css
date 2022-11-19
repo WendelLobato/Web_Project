@@ -1,0 +1,8 @@
+.my-container {
+    background-image: url("../../assets/Astronaut-planet-stars.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: -8px;
+}
+
